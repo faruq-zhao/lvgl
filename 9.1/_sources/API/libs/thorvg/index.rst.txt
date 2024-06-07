@@ -1,0 +1,60 @@
+======
+thorvg
+======
+
+
+.. toctree::
+    :maxdepth: 2
+
+    tvgSvgCssStyle
+    tvgStr
+    thorvg_lottie
+    tvgPicture
+    tvgTaskScheduler
+    tvgLottieModel
+    tvgSvgLoaderCommon
+    tvgCompressor
+    tvgLottieParserHandler
+    tvgIteratorAccessor
+    tvgRawLoader
+    tvgLottieParser
+    tvgLottieExpressions
+    tvgArray
+    tvgFrameModule
+    tvgPaint
+    tvgMath
+    tvgSaveModule
+    tvgLottieLoader
+    tvgShape
+    tvgLottieBuilder
+    tvgSvgUtil
+    tvgXmlParser
+    tvgAnimation
+    config
+    tvgScene
+    tvgSwCommon
+    tvgSvgSceneBuilder
+    tvgSwRasterNeon
+    tvgSwRasterC
+    thorvg_capi
+    tvgText
+    tvgLoadModule
+    tvgBinaryDesc
+    tvgInlist
+    tvgLoader
+    tvgLottieProperty
+    tvgFill
+    tvgSvgPath
+    tvgLines
+    tvgSwRasterTexmap
+    tvgCommon
+    tvgRender
+    tvgSwRasterAvx
+    tvgSwRenderer
+    thorvg
+    tvgSvgLoader
+    tvgLock
+    tvgCanvas
+    tvgLottieInterpolator
+    rapidjson/index
+
